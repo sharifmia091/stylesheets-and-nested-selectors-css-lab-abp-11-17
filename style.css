@@ -11,13 +11,16 @@ header{
   border-bottom: 1px solid #cccccc;
 }
 
+header nav{
+  float: right;
+}
+
 header nav ul li{
   display: inline;
+  margin-right: 10px;
 }
 h3#header{
   float: left;
 
 }
-header nav{
-  float: right;
-}
+
