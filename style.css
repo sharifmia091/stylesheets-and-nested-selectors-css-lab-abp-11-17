@@ -13,3 +13,6 @@ h3#header{
   float: left;
 
 }
+header nav{
+  float: right;
+}
